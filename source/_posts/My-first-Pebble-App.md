@@ -6,6 +6,6 @@ tags: Pebble
 I tried to create watchface app for [Pebble Time](https://getpebble.com/pebble_time).
 My first watchface app is here !
 
-![BEAVER Typeface Watchface](beaver-typeface.png)
+![BEAVER Typeface Watchface](/2015/06/14/My-first-Pebble-App/beaver-typeface.png)
 
 You can find this app in iOS / Android Pebble.app .
